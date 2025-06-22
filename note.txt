@@ -1,0 +1,9 @@
+=======conditional statements=======
+if/else switch/case
+
+
+
+rahim - bike = I will go to market
+karim - cycle = I will go to playground 
+Rafiq - car = I will go to park
+Otherwise - I will go to sleep 
